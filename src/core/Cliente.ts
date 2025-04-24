@@ -6,7 +6,7 @@ export default class Cliente {
     constructor(nome: string, idade: number, id: string = null) {
         this.#nome = nome
         this.#idade = idade
-        this.#id = idade
+        this.#id = id
     }
 
     static vazio() {
