@@ -1,5 +1,5 @@
 import Entrada from "./Entrada";
-import Cliente from "../../core/Cliente";
+import Cliente from "../core/Cliente";
 import { useState } from "react";
 import Botao from "./Botao";
 
